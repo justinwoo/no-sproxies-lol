@@ -1,0 +1,10 @@
+{
+  "name": "no-sproxies-lol",
+  "set": "280718",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "console",
+    "prelude",
+    "record"
+  ]
+}
